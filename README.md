@@ -16,3 +16,4 @@
 ![task3](https://github.com/EvgenyMyznikov/RabbitMQ-hw/blob/main/img/task3_get_queue_n2.png?raw=true)
 ![task3](https://github.com/EvgenyMyznikov/RabbitMQ-hw/blob/main/img/task3_rbmq1.png?raw=true)
 ![task3](https://github.com/EvgenyMyznikov/RabbitMQ-hw/blob/main/img/task3_rbmq2.png?raw=true)
+![task3](https://github.com/EvgenyMyznikov/RabbitMQ-hw/blob/main/img/task3_rbmq1_off.png?raw=true)
